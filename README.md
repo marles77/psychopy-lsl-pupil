@@ -83,7 +83,7 @@ KnownPeers = {192.168.1.1, 192.168.1.2}
 #### 4. Connect the second ending of the LAN cable.
 
 #### 5. Configure ethernet connection:
-Repeat the step 4. for PC 1. but use the following IP address: 192.168.1.2
+Repeat the step 5. for PC 1. but use the following IP address: 192.168.1.2
 
 ---
 *Note*: If you plan to use the same computer for both recording and presenting stimuli, you can skip steps 4 and 5.
