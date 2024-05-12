@@ -70,7 +70,7 @@ If the plugin was installed correctly, it should appear in the Plugin Manager of
 ![plugin](plugin1.png)
 
 
-#### 3. Help LSL receiver to find the stream:
+#### 3. Help LSL receiver find the stream:
 
 Create a directory `C:\etc\lsl_api\` and copy `lsl_api.cfg` file there. Use [these cool tips](https://www.brainproducts.com/support-resources/tips-and-tricks-for-lsl/) if needed.
 
